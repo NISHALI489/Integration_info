@@ -8,7 +8,7 @@ Then in code option copy http link from github.
 come to local pc where you want to keep there create one new folder and inside choose option open gitbash here.
 Then give command git clone http link.
 Then give command git checkout to jump branch from main to your child branch.
-once done go to NB folder and copy RH850 vector package and config folder.
+once done go to NB folder and copy RH850 vector package and component folder.
 before that both folder pasting into your work space keep original config folder backup to the same workspace.
 then paste both folders.
 once done with those steps, go to option .dpa and right click on it and try to open davanci configurator.
