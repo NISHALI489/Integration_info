@@ -2,7 +2,13 @@
 Use windows set for Integration task
 Before starting the taks check latest Application arxml attached or not, then port excel sheet, and conan pakcages info. if anything is missing in that then ticket move to to do to defect and info to customer.
 If all are seems good then click on arxmal and with raw option save to your local pc and file format cheage to all file to arxml extension. then save port excel sheet as well.
-Task assigned in jira for integration. As per your zonal check your task and clone latest date and timing NB(Nightly build) full project folder tak into your local pc. if bench PC use jfrog
+Task assigned in jira for integration. 
+e.g <DDZM><PBOT><PBOTARX>
+here DDZM is zonal name
+PBOT is composition name
+PBOTARX is arxmal for composition.
+
+As per your zonal check your task and clone latest date and timing NB(Nightly build) full project folder tak into your local pc. if bench PC use jfrog
 then go to github and as per zonal create child branch from main. give name as per task.
 Then in code option copy http link from github.
 come to local pc where you want to keep there create one new folder and inside choose option open gitbash here.
