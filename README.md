@@ -30,6 +30,9 @@ git push --> To reflect your changes use the command
 Then go to your barnch and once relfected your changes create PR.
 Once PR created build should be done without any error.
 
+CI 
+CD
+
 
 ************************ Integration Testing for basic level communication ************************************************
 
