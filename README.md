@@ -43,3 +43,18 @@ CD
 ************************ Integration Testing for basic level communication ************************************************
 
 Once all PR and junkin build passed,
+from our PR down elf file copy and paste it into bech 
+
+In canoe check for CAN and Ethernet channel should be selected.
+Then turn ON KL50, Ign ON 
+in IG block NM message will pop up, after 5 second still NM messages are then then our communication is working fine.
+
+Then ghs debugger have to select HSM harware need to select
+select elf file
+click on target reset
+initially we can able to see only TX messages
+clear all then check for Rx
+Run it
+
+with that Wdg voilation
+and core freez should not be there.
